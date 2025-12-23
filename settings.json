@@ -23,8 +23,8 @@
       "args": [
         "-y",
         "@modelcontextprotocol/server-filesystem",
-        "C:\\Users\\Sharing\\Documents",
-        "C:\\Users\\Sharing\\Desktop"
+        "${userHome}\\Documents",
+        "${userHome}\\Desktop"
       ]
     },
     "playwright": {
