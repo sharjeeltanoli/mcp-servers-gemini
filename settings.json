@@ -14,7 +14,7 @@
     "github": {
       "httpUrl": "https://api.githubcopilot.com/mcp/",
       "headers": {
-        "Authorization": "github-api-key ****************************"
+        "Authorization": "YOUR_GITHUB_TOKEN_HERE"
       },
       "timeout": 5001
     },
