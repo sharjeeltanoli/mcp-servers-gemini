@@ -40,7 +40,7 @@
         "-y",
         "@upstash/context7-mcp@latest",
         "--api-key",
-        "context7_api_****************************"
+        "YOUR_CONTEXT7_API_KEY"
       ]
     },
     "sequential-thinking": {
